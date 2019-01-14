@@ -30,7 +30,7 @@ This is the code for training a machine learning model to drive a simulated car 
 Type the following commands in your terminal:
 ```bash
 cd path/to/directory/you/like/
-git clone https://github.com/anubhavshrimal/Simulated_Self_Driving_Car.git
+git clone https://github.com/AkankshaShrimal/Simulated-Self-Driving-Car
 cd Simulated_Self_Driving_Car/
 ```
 
